@@ -1,7 +1,7 @@
 # RS-School-LearnSpace
 Notion Template for Dashboard with Knowledge Base and Task Management System for studying at RS School
 
-[Посмотреть RS School LearnSpace Notion Template](https://sashaserge.notion.site/RS-School-Learn-Space-Template-bd00e2d759fa47629a4383844f70f4c1)
+[Посмотреть RS School JS/FE Notion Template](https://tinyurl.com/rss-js-fe)
 
 [Что такое Notion?](https://www.notion.so/)
 
